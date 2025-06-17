@@ -42,28 +42,15 @@ Sleek and responsive landing page inspired by Apple
 ---
 
 ### 📊 GitHub Stats
-<!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyheera&layout=compact&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyheera&show_icons=true&theme=default" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyheera&layout=compact&langs_count=6&theme=default" width="45%" />
 </p>
 
-
-<!-- GitHub Stats Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebyheera&show_icons=true&theme=default&hide_title=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyheera&theme=light" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=codebyheera&theme=default" width="45%" />
 </p>
-
-<!-- GitHub Streaks -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codebyheera&theme=default" />
-</p>
-
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyheera&theme=light" />
-</p>
-
-
 
 ---
 
