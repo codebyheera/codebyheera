@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | WordPress Specialist | Passionate Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=440&lines=Clean+Code+%7C+Responsive+Designs+%7C+Real+Projects;Learning+JavaScript+%26+Node.js+Now..." alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?width=435&height=40&lines=Clean+Code+%7C+Responsive+Designs+%7C+Real+Projects;Learning+JavaScript+%26+Node.js+Now..." alt="Typing SVG" /></a>
 </p>
 
 ---
