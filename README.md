@@ -30,7 +30,7 @@
 #### 🍿 Netflix Homepage Clone  
 Responsive clone using only HTML & CSS  
 🔗  [Live Site](https://clone-by-subhan.vercel.app/)  
-💻  [Live Site](https://github.com/codebyheera/Netflix-Clone.git)
+💻  [Source Code](https://github.com/codebyheera/Netflix-Clone.git)
 
 ---
 
