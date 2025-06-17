@@ -42,12 +42,13 @@ Sleek and responsive landing page inspired by Apple
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebyheera &show_icons=true&theme=default&hide_title=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyheera&show_icons=true&theme=default&hide_title=false" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyheera &layout=compact&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyheera&layout=compact&langs_count=6" />
 </p>
+
+
 
 ---
 
