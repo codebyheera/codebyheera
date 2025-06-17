@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎯 Focused on **Frontend Development** using HTML, CSS, JavaScript
-- 🔧 Building websites with **WordPress + Elementor**
+- 🔧 Building websites with **WordPress & Custom Code**
 - 🌱 Currently exploring **JavaScript** and **Node.js**
 - 🧠 Self-learner who believes in practice, progress, and real projects
 - 💻 Always ready to bring ideas to life through **clean UI & UX**
@@ -20,7 +20,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,wordpress,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,wordpress,git,github" />
 </p>
 
 ---
