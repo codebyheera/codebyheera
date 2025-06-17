@@ -49,7 +49,7 @@ Sleek and responsive landing page inspired by Apple
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyheera&theme=light" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=codebyheera&theme=default" width="45%" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyheera&theme=light" width="45%" />
 </p>
 
 ---
