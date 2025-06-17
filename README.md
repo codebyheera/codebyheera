@@ -69,5 +69,5 @@ Sleek and responsive landing page inspired by Apple
 ---
 
 <p align="center">
-  <b>“Built with 💻 and 🚀 by Muhammad Subhan Naeem”</b>
+  <b>Built with ❤️ by Muhammad Subhan Naeem</b>
 </p>
