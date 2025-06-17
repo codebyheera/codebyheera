@@ -34,7 +34,7 @@ Responsive clone using only HTML & CSS
 
 ---
 
-#### 🍏 Apple Landing Page  
+#### 📱 Apple Landing Page  
 Sleek and responsive landing page inspired by Apple  
 🔗 [Live Site](https://apple-clone-by-subhan.vercel.app/)  
 💻 [Source Code](https://github.com/codebyheera/Apple-Clone.git)
