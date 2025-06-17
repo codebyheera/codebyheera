@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Muhammad Subhan Naeem</h1>
-<h3 align="center">Frontend Developer | WordPress Specialist | Passionate Learner</h3>
+<h3 align="center">Frontend Developer | Junior WordPress Developer | Passionate Learner</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?width=435&height=40&lines=Clean+Code+%7C+Responsive+Designs+%7C+Real+Projects;Learning+JavaScript+%26+Node.js+Now..." alt="Typing SVG" /></a>
