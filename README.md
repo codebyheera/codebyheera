@@ -42,7 +42,6 @@ Sleek and responsive landing page inspired by Apple
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 <!-- Most Used Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyheera&layout=compact&langs_count=6" />
