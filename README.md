@@ -42,30 +42,26 @@ Sleek and responsive landing page inspired by Apple
 ---
 
 ### 📊 GitHub Stats
+
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyheera&layout=compact&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyheera&layout=compact&langs_count=6&cache_seconds=86400" alt="Top Languages" />
 </p>
-
 
 <!-- GitHub Stats Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebyheera&show_icons=true&theme=default&hide_title=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyheera&show_icons=true&theme=default&hide_title=false&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
-
-
-<!-- GitHub Streaks -->
+<!-- GitHub Streaks (different domain to reduce load) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codebyheera&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codebyheera&theme=default&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=86400" alt="GitHub Streak" />
 </p>
 
-
-<!-- GitHub Activity Graph -->
+<!-- GitHub Activity Graph (separate domain) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyheera&theme=light" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyheera&theme=light&area=true&hide_border=true&cache_seconds=86400" alt="GitHub Activity Graph" />
 </p>
-
 
 ---
 
