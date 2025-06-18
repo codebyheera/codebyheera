@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | Junior WordPress Developer | Passionate Learner</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?width=435&height=40&lines=Clean+Code+%7C+Responsive+Designs+%7C;Learning+JavaScript+%26+Node.js+Now..." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?width=435&height=40&lines=Clean+Code+%7C+Responsive+Designs+%7C+Projects;Learning+JavaScript+%26+Node.js+Now..." alt="Typing SVG" /></a>
 </p>
 
 ---
