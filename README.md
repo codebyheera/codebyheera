@@ -56,8 +56,9 @@ Sleek and responsive landing page inspired by Apple
 
 <!-- GitHub Streaks -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codebyheera&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyheera&theme=default" alt="GitHub Streak" />
 </p>
+
 
 <!-- GitHub Activity Graph -->
 <p align="center">
