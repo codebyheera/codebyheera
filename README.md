@@ -63,5 +63,6 @@ Sleek and responsive landing page inspired by Apple
 ---
 
 <p align="center">
-  <b>Built with ❤️ by Muhammad Subhan Naeem</b>
+  <strong>Made with ❤️ by Muhammad Subhan Naeem</strong><br>
+  <a href="https://github.com/codebyheera">Visit My GitHub</a>
 </p>
