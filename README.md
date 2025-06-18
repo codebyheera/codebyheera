@@ -62,6 +62,10 @@ Sleek and responsive landing page inspired by Apple
 
 ---
 
+> "Practice daily, ship often, and never stop learning." — Muhammad Subhan Naeem
+
+---
+
 <p align="center">
   <strong>Made with ❤️ by Muhammad Subhan Naeem</strong><br>
   <a href="https://github.com/codebyheera">Visit My GitHub</a>
