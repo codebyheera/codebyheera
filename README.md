@@ -1,59 +1,59 @@
-<h1 align="center">Hi 👋, I'm Muhammad Subhan Naeem</h1>
+<h1 align="center">Hi 👋 I'm Muhammad Subhan Naeem</h1>
 <h3 align="center">Frontend Developer | Junior WordPress Developer | Passionate Learner</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Clean+Code+%7C+Responsive+Designs+%7C+Real+Projects;Learning+JavaScript+%26+Node.js+Now..." alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?width=435&height=40&lines=Clean+Code+%7C+Responsive+Designs+%7C+Real+Projects;Learning+JavaScript+%26+Node.js+Now..." alt="Typing SVG" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🎯 Focused on **Frontend Development** using HTML, CSS, and JavaScript  
-- 🔧 Building websites with **WordPress & Custom Code**  
-- 🌱 Currently exploring **JavaScript** and **Node.js**  
-- 🧠 Self-learner who believes in *practice, progress, and real projects*  
-- 💻 Passionate about turning ideas into clean UI & UX
+- 🎯 Focused on **Frontend Development** using HTML, CSS, JavaScript
+- 🔧 Building websites with **WordPress & Custom Code**
+- 🌱 Currently exploring **JavaScript** and **Node.js**
+- 🧠 Self-learner who believes in practice, progress, and real projects
+- 💻 Always ready to bring ideas to life through **clean UI & UX**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,wordpress,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,wordpress,git,github" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+### 📌 Featured Projects
 
-### 🍿 Netflix Homepage Clone
-A responsive Netflix homepage built using only HTML and CSS.  
-🔗 [Live Site](https://clone-by-subhan.vercel.app/) • 💻 [Source Code](https://github.com/codebyheera/Netflix-Clone.git)
-
----
-
-### 📱 Apple Landing Page
-A sleek and responsive landing page inspired by Apple.  
-🔗 [Live Site](https://apple-clone-by-subhan.vercel.app/) • 💻 [Source Code](https://github.com/codebyheera/Apple-Clone.git)
+#### 🍿 Netflix Homepage Clone  
+Responsive clone using only HTML & CSS  
+🔗  [Live Site](https://clone-by-subhan.vercel.app/)  
+💻  [Source Code](https://github.com/codebyheera/Netflix-Clone.git)
 
 ---
 
-## 📈 GitHub Stats
+#### 📱 Apple Landing Page  
+Sleek and responsive landing page inspired by Apple  
+🔗 [Live Site](https://apple-clone-by-subhan.vercel.app/)  
+💻 [Source Code](https://github.com/codebyheera/Apple-Clone.git)
 
-<!-- Languages -->
+---
+
+### 📊 GitHub Stats
+
+<!-- Most Used Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyheera&layout=compact&langs_count=6&cache_seconds=86400" alt="Top Languages" />
 </p>
 
-<!-- Stats -->
+<!-- GitHub Stats Card -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codebyheera&show_icons=true&theme=default&hide_title=false&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
-<!-- Activity Graph -->
+<!-- GitHub Activity Graph (separate domain) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyheera&theme=light&area=true&hide_border=true&cache_seconds=86400" alt="GitHub Activity Graph" />
 </p>
@@ -61,5 +61,5 @@ A sleek and responsive landing page inspired by Apple.
 ---
 
 <p align="center">
-  <strong>Built with ❤️ by Muhammad Subhan Naeem</strong>
+  <b>Built with ❤️ by Muhammad Subhan Naeem</b>
 </p>
