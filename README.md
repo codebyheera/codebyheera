@@ -53,9 +53,9 @@ Sleek and responsive landing page inspired by Apple
   <img src="https://github-readme-stats.vercel.app/api?username=codebyheera&show_icons=true&theme=default&hide_title=false&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
-<!-- GitHub Streaks (different domain to reduce load) -->
+<!-- Snake Contributions Animation -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=codebyheera&theme=default&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=86400" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/codebyheera/codebyheera/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <!-- GitHub Activity Graph (separate domain) -->
