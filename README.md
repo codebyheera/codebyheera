@@ -62,7 +62,7 @@ Sleek and responsive landing page inspired by Apple
 
 ---
 
-<a href="https://app.daily.dev/muhammadsubhannaeem"><img src="https://api.daily.dev/devcards/v2/XMkMtwKJqMCQD2gEpkRq6.png?r=2vh&type=default" width="356" alt="Muhammad Subhan Naeem's Dev Card"/></a>
+<a href="https://app.daily.dev/muhammadsubhannaeem"><img src="https://api.daily.dev/devcards/v2/XMkMtwKJqMCQD2gEpkRq6.png?r=2vh&type=wide" width="652" alt="Muhammad Subhan Naeem's Dev Card"/></a>
 
 ---
 
