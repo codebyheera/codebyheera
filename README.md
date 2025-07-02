@@ -55,7 +55,7 @@ Sleek and responsive landing page inspired by Apple
   <img src="https://github-readme-stats.vercel.app/api?username=codebyheera&show_icons=true&theme=default&hide_title=false&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
-<a href="https://app.daily.dev/muhammadsubhannaeem"><img src="https://api.daily.dev/devcards/v2/XMkMtwKJqMCQD2gEpkRq6.png?r=2vh&type=wide" width="652" align-item="center" alt="Muhammad Subhan Naeem's Dev Card"/></a>
+<a href="https://app.daily.dev/muhammadsubhannaeem"><img src="https://api.daily.dev/devcards/v2/XMkMtwKJqMCQD2gEpkRq6.png?r=2vh&type=wide" alt="Muhammad Subhan Naeem's Dev Card"/></a>
 
 <!-- GitHub Activity Graph (separate domain) -->
 <p align="center">
