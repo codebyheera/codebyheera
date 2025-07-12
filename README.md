@@ -63,6 +63,11 @@ Sleek and responsive landing page inspired by Apple
 </p>
 
 ---
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-subhan-naeem/)
+
+---
 
 <p align="center">
   <strong>Made with ❤️ by Muhammad Subhan Naeem</strong><br>
