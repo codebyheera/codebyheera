@@ -65,14 +65,13 @@ Sleek and responsive landing page inspired by Apple
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-subhan-naeem/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
-
-
-<p align="center">
   <strong>Made with ❤️ by Muhammad Subhan Naeem</strong><br>
   <em>"Code. Learn. Build. Repeat."</em>
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-subhan-naeem/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
 
