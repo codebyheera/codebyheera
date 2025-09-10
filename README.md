@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋 I'm Muhammad Subhan Naeem</h1>
-<h3 align="center">Frontend Developer | Junior WordPress Developer | Passionate Learner</h3>
+<h1 align="center">Assalam-o-Alaikum, I'm Muhammad Subhan Naeem</h1>
+<h3 align="center">Web Developer | MERN Stack Learner | WordPress Developer</h3>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -30,14 +31,14 @@
 ### 📌 Featured Projects
 
 #### 🍿 Netflix Homepage Clone  
-Responsive clone using only HTML & CSS  
+A responsive Netflix landing page clone built using HTML and CSS. This project replicates the visual design of Netflix’s homepage as a practice to enhance my frontend development skills. My first step into web development and version control with GitHub.
 🔗  [Live Site](https://clone-by-subhan.vercel.app/)  
 💻  [Source Code](https://github.com/codebyheera/Netflix-Clone.git)
 
 ---
 
 #### 📱 Apple Landing Page  
-Sleek and responsive landing page inspired by Apple  
+A simple Apple landing page clone built using HTML and CSS. This is my second front-end project after the Netflix clone. Designed to practice clean layouts and responsive design.
 🔗 [Live Site](https://apple-clone-by-subhan.vercel.app/)  
 💻 [Source Code](https://github.com/codebyheera/Apple-Clone.git)
 
