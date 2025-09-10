@@ -23,7 +23,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,wordpress,git,github" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,wordpress,git,github,vscode,bootstrap,tailwind" alt="Tech Stack" />
 </p>
 
 ---
