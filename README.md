@@ -1,4 +1,4 @@
-<h1 align="center">Assalam-o-Alaikum, I'm Muhammad Subhan Naeem</h1>
+<h1 align="center">Salam, I'm Muhammad Subhan Naeem 👋</h1>
 <h3 align="center">Web Developer | MERN Stack Learner | WordPress Developer</h3>
 
 
@@ -31,15 +31,15 @@
 ### 📌 Featured Projects
 
 #### 🍿 Netflix Homepage Clone  
-A responsive Netflix landing page clone built using HTML and CSS. This project replicates the visual design of Netflix’s homepage as a practice to enhance my frontend development skills. My first step into web development and version control with GitHub.
+A responsive Netflix landing page clone built using HTML and CSS. This project replicates the visual design of Netflix’s homepage as a practice to enhance my frontend development skills. My first step into web development and version control with GitHub.<br>
 🔗  [Live Site](https://clone-by-subhan.vercel.app/)  
 💻  [Source Code](https://github.com/codebyheera/Netflix-Clone.git)
 
 ---
 
 #### 📱 Apple Landing Page  
-A simple Apple landing page clone built using HTML and CSS. This is my second front-end project after the Netflix clone. Designed to practice clean layouts and responsive design.
-🔗 [Live Site](https://apple-clone-by-subhan.vercel.app/)  
+A simple Apple landing page clone built using HTML and CSS. This is my second front-end project after the Netflix clone. Designed to practice clean layouts and responsive design.<br>
+🔗 [Live Site](https://apple-clone-by-subhan.vercel.app/) <br>
 💻 [Source Code](https://github.com/codebyheera/Apple-Clone.git)
 
 ---
