@@ -57,11 +57,9 @@ A simple Apple landing page clone built using HTML and CSS. This is my second fr
 </p>
 
 <p align="center">
-  <a href="https://app.daily.dev/muhammadsubhannaeem">
-    <img src="https://api.daily.dev/devcards/v2/XMkMtwKJqMCQD2gEpkRq6.png?type=wide&r=zp2" width="652" alt="Muhammad Subhan Naeem's Dev Card"/>
-  </a>
+   <a href="https://app.daily.dev/muhammadsubhannaeem"><img src="https://api.daily.dev/devcards/v2/XMkMtwKJqMCQD2gEpkRq6.png?type=wide&r=ik5" width="652" alt="Muhammad Subhan Naeem's Dev Card"/></a>
 </p>
-
+    
 <!-- GitHub Activity Graph (separate domain) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyheera&theme=light&area=true&hide_border=true&cache_seconds=86400" alt="GitHub Activity Graph"  />
