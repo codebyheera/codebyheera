@@ -54,10 +54,9 @@ A simple Apple landing page clone built using HTML and CSS. This is my second fr
 </p>
 
 <p align="center">
-  <a href="https://app.daily.dev/muhammadsubhannaeem">
-    <img src="https://raw.githubusercontent.com/codebyheera/codebyheera/main/assets/devcard.png" width="652" alt="Muhammad Subhan Naeem's Dev Card" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=codebyheera&theme=default&hide_border=true" />
 </p>
+
     
 <!-- GitHub Activity Graph (separate domain) -->
 <p align="center">
