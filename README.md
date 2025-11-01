@@ -1,14 +1,11 @@
 <h1 align="center">Salam, I'm Muhammad Subhan Naeem 👋</h1>
 <h3 align="center">Web Developer | MERN Stack Learner | WordPress Developer</h3>
 
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=45&lines=Clean+Code+%7C+Responsive+Designs+%7C+Real+Projects;Learning+JavaScript+and+Node.js+Now..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=45&lines=Clean+Code+%7C+Responsive+Designs+%7C+Real+Projects;Learning+JavaScript+and+Node.js+Now..." alt="Typing SVG" />
   </a>
 </p>
-
----
 
 ### 🚀 About Me
 
@@ -57,7 +54,9 @@ A simple Apple landing page clone built using HTML and CSS. This is my second fr
 </p>
 
 <p align="center">
-   <a href="https://app.daily.dev/muhammadsubhannaeem"><img src="https://api.daily.dev/devcards/v2/XMkMtwKJqMCQD2gEpkRq6.png?type=wide&r=ik5" width="652" alt="Muhammad Subhan Naeem's Dev Card"/></a>
+  <a href="https://app.daily.dev/muhammadsubhannaeem">
+    <img src="https://raw.githubusercontent.com/codebyheera/codebyheera/main/assets/devcard.png" width="652" alt="Muhammad Subhan Naeem's Dev Card" />
+  </a>
 </p>
     
 <!-- GitHub Activity Graph (separate domain) -->
