@@ -43,25 +43,13 @@ A simple Apple landing page clone built using HTML and CSS. This is my second fr
 
 ### 📊 GitHub Stats
 
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyheera&layout=compact&langs_count=6&cache_seconds=86400" alt="Top Languages" />
-</p>
-
 <!-- GitHub Stats Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebyheera&show_icons=true&theme=default&hide_title=false&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyheera&theme=default&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=codebyheera&theme=default&hide_border=true" />
-</p>
-
     
 <!-- GitHub Activity Graph (separate domain) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyheera&theme=light&area=true&hide_border=true&cache_seconds=86400" alt="GitHub Activity Graph"  />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyheera&theme=light&area=true&hide_border=true&cache_seconds=86400" alt="GitHub Activity Graph" /> </p>
 
 ---
 
