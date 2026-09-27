@@ -9,45 +9,47 @@
 
 </div>
 
+<div align="center">
+
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 I'm a **MERN Stack Developer** and the founder of **[Al-Quran Hub](https://alquranhub.org)**, a free and ad-free Quran platform built to make the Quran accessible to Muslims around the world.
 
 I enjoy building modern web applications, learning new technologies, and solving real-world problems through software — with a focus on creating products that provide genuine value and impact.
 
-- 🌙 Founder of **Al-Quran Hub**
-- 💻 MERN Stack Developer (React • Node.js • Express • MongoDB)
-- 🚀 Building modern, performant web applications
-- 🌱 Currently learning **System Design** & Scalable Architectures
-- ⚡ Interested in SEO, Web Performance & Cloud Technologies
-- ✍️ Writing about dev & tech on **[Medium](https://medium.com/@muhammadsubhan189345)**
-- 💬 Ask me about React, Node.js, or building products for social good
+🌙&nbsp; Founder of **Al-Quran Hub** &nbsp;|&nbsp; 💻&nbsp; MERN Stack Developer &nbsp;|&nbsp; 🚀&nbsp; Building Modern Web Apps
+<br/>
+🌱&nbsp; Learning System Design & Scalable Architectures &nbsp;|&nbsp; ⚡&nbsp; SEO, Performance & Cloud Tech
+<br/>
+✍️&nbsp; Writing on **[Medium](https://medium.com/@muhammadsubhan189345)** &nbsp;|&nbsp; 💬&nbsp; Ask me about React, Node.js & building for social good
 
 ---
 
-## 🌙 Featured Project — Al-Quran Hub
+### 🌙 Featured Project — Al-Quran Hub
 
-<div align="center">
-  <a href="https://alquranhub.org">
-    <img src="https://img.shields.io/badge/🌙_Al--Quran_Hub-Visit_Live_Site-2E9E4A?style=for-the-badge" />
-  </a>
-</div>
+<a href="https://alquranhub.org"><img src="https://img.shields.io/badge/🌙_Al--Quran_Hub-Visit_Live_Site-2E9E4A?style=for-the-badge" alt="Visit Al-Quran Hub" /></a>
 
 A free, ad-free Quran platform designed to provide a clean, distraction-free Quran experience for Muslims worldwide.
 
-| Feature | Description |
-|---|---|
-| 📖 | Complete Quran — all 114 Surahs |
-| 🎧 | Multiple audio reciters |
-| 📚 | Juz navigation |
-| 🔍 | Powerful Quran search |
-| 🔖 | Bookmark Ayahs |
-| 📱 | Fully responsive design |
-| ⚡ | Fast global delivery via Cloudflare CDN |
-| 🔐 | No login required |
-| ❤️ | Completely free — no ads, ever |
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">📖&nbsp; Complete Quran — all 114 Surahs</td>
+    <td align="center" width="33%">🎧&nbsp; Multiple audio reciters</td>
+    <td align="center" width="33%">📚&nbsp; Juz navigation</td>
+  </tr>
+  <tr>
+    <td align="center">🔍&nbsp; Powerful Quran search</td>
+    <td align="center">🔖&nbsp; Bookmark Ayahs</td>
+    <td align="center">📱&nbsp; Fully responsive design</td>
+  </tr>
+  <tr>
+    <td align="center">⚡&nbsp; Fast global delivery via Cloudflare CDN</td>
+    <td align="center">🔐&nbsp; No login required</td>
+    <td align="center">❤️&nbsp; Completely free — no ads, ever</td>
+  </tr>
+</table>
 
 **Tech Stack:** React • Node.js • Express.js • Supabase • Cloudflare • Vercel
 
@@ -57,59 +59,36 @@ A free, ad-free Quran platform designed to provide a clean, distraction-free Qur
 
 ---
 
-## 🔨 Currently Working On
+### 🔨 Currently Working On
 
-- 🌙 Improving & scaling Al-Quran Hub
-- 🧩 Advanced MERN Stack development
-- 🏗️ Backend architecture & API design
-- 📈 SEO & web performance optimization
-- 🧠 System design fundamentals
-- ✍️ Technical writing on Medium
+🌙&nbsp; Improving & Scaling Al-Quran Hub &nbsp;|&nbsp; 🧩&nbsp; Advanced MERN Stack Development &nbsp;|&nbsp; 🏗️&nbsp; Backend Architecture & API Design
+<br/>
+📈&nbsp; SEO & Web Performance &nbsp;|&nbsp; 🧠&nbsp; System Design Fundamentals &nbsp;|&nbsp; ✍️&nbsp; Technical Writing on Medium
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,supabase,tailwind,bootstrap,wordpress,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,supabase,tailwind,bootstrap,wordpress,git,github,vscode" alt="Tech Stack" />
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codebyheera&show_icons=true&hide_border=true&theme=default&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyheera&layout=compact&hide_border=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyheera&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyheera&theme=github-compact&hide_border=true&area=true" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyheera&hide_border=true" alt="GitHub Streak Stats" />
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/codebysubhan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://alquranhub.org">
-    <img src="https://img.shields.io/badge/Al--Quran%20Hub-Visit-2E9E4A?style=for-the-badge&logo=googlechrome" />
-  </a>
-  <a href="https://medium.com/@muhammadsubhan189345">
-    <img src="https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/codebysubhan"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>&nbsp;
+<a href="https://alquranhub.org"><img src="https://img.shields.io/badge/Al--Quran%20Hub-Visit-2E9E4A?style=for-the-badge&logo=googlechrome" alt="Al-Quran Hub" /></a>&nbsp;
+<a href="https://medium.com/@muhammadsubhan189345"><img src="https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium" alt="Medium" /></a>
 
 ---
 
-<p align="center">
-  <strong>Building technology that benefits people and serves the Ummah.</strong><br/>
-  <sub>⭐ If Al-Quran Hub's mission resonates with you, consider starring the repo!</sub>
-</p>
+**Building technology that benefits people and serves the Ummah.**
+<br/>
+<sub>⭐ If Al-Quran Hub's mission resonates with you, consider starring the repo!</sub>
+
+</div>
